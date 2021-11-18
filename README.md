@@ -9,10 +9,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ij0)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ij0)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
