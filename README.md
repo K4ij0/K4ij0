@@ -8,9 +8,6 @@
 - 👯 I’m looking forward to create new projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
-<br>
-<br />
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K4ij0)](https://github.com/anuraghazra/github-readme-stats)
 ### Connect with me:
 
