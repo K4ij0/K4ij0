@@ -1,6 +1,6 @@
 ### Hey, I am Fahad Ullah - aka [Kaijo][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fahadportfolio.altervista.org/)
+[![Website](https://img.shields.io/website?label=FahadPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fahadportfolio.altervista.org/)
 
 ### Goals:
 - 🌱 I’m currently studying at Brunel University (Mathematics with integrated Computing Foundation Year). 
